@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Aplauses SFX 6  Aplausos Chiflidos Gritos Efectos de sonido.wav-7a7a98eb06d0da3f6fb581b7cb494f3f.sample"
+
+[deps]
+
+source_file="res://musica_y_vfx/Aplauses SFX 6  Aplausos Chiflidos Gritos Efectos de sonido.wav"
+dest_files=[ "res://.import/Aplauses SFX 6  Aplausos Chiflidos Gritos Efectos de sonido.wav-7a7a98eb06d0da3f6fb581b7cb494f3f.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0
